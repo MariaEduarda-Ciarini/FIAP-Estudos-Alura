@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class DataReading {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		int age = 0;
-		
-		Scanner sc = new Scanner (System.in);
-		System.out.println("Enter name: ");
-		String name = sc.nextLine();
-				
+        int age = 0;
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter name: ");
+        String name = sc.nextLine();
+
         System.out.println("Enter age: ");
         age = sc.nextInt();
 
@@ -27,6 +27,6 @@ public class DataReading {
             System.out.println("Young Age");
         }
 
-        sc.close(); 
+        sc.close();
     }
 }
