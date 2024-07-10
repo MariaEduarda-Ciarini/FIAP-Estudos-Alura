@@ -1,4 +1,3 @@
-README.ME
 Descrição
 Este repositório contém projetos e exercícios desenvolvidos durante o curso na FIAP, abordando as tecnologias Java, Python e Banco de Dados Oracle.
 
