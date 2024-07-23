@@ -1,32 +1,24 @@
-Descrição
-Este repositório contém projetos e exercícios desenvolvidos durante o curso na FIAP, abordando as tecnologias Java, Python e Banco de Dados Oracle.
+Descrição<br>
 
-Tecnologias Estudadas
-Java
+Este repositório contém projetos e exercícios desenvolvidos durante o curso na FIAP mais a plataforma de cursos Alura, abordando as tecnologias Java, Python e Banco de Dados Oracle.<br>
 
-Programação orientada a objetos
-Desenvolvimento de aplicações desktop e web
-Python
 
-Scripts para automação e análise de dados
-Aplicações em ciência de dados com bibliotecas como Pandas e NumPy
-Banco de Dados Oracle
+Tecnologias Estudadas<br>
 
-Modelagem de dados
-Criação e manipulação de tabelas
-SQL e PL/SQL para consultas e procedimentos armazenados
-Estrutura do Repositório
-java/
+Java ->  Programação orientada a objetos.<br>
 
-Contém projetos desenvolvidos em Java
-python/
+Python -> Desenvolvimento de aplicações desktop e web, Scripts para automação e análise de dados. Aplicações em ciência de dados com bibliotecas como Pandas e NumPy etc....<br>
 
-Scripts e notebooks desenvolvidos em Python
-oracle/
+Banco de Dados Oracle -> Modelagem de dados, criação e manipulação de tabelas. SQL e PL/SQL para consultas e procedimentos armazenados.<br><br>
 
-Scripts SQL e exemplos de PL/SQL
-Como Utilizar
-Clone o repositório: git clone https://github.com/MariaEduarda-Ciarini/FIAP-Estudos
-Navegue até o diretório desejado: cd repo/java
-Contato
-Para mais informações, entre em contato pelo e-mail: dudaciarinii@gmail.com
+
+
+Como Utilizar:<br>
+
+Clone o repositório: git clone https://github.com/MariaEduarda-Ciarini/FIAP-Estudos-Alura<br>
+Navegue até o diretório desejado: cd repo/java<br>
+
+Contato para mais informações, entre em contato pelo e-mail: dudaciarinii@gmail.com
+
+
+📊 🐗 🐍 = 🦟
