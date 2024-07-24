@@ -1,23 +1,16 @@
 package br.com.alura.filme.model;
 
-import com.fasterxml.jackson.annotation.JsonAlias;
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import br.com.alura.filme.service.traducao.ConsultaMyMemory;
 
 import java.util.OptionalDouble;
 
 public class Serie {
     private String titulo;
-
     private Integer totalTemporadas;
-
     private Double avaliacao;
-
     private Categoria genero;
-
     private String atores;
-
     private String poster;
-
     private String sinopse;
 
     public String getTitulo() {
@@ -79,13 +72,11 @@ public class Serie {
     public Serie(DadosSerie dadosSerie) {
         this.titulo = dadosSerie.titulo();
         this.totalTemporadas = dadosSerie.totalTemporadas();
-        this.avaliacao = OptionalDouble.of(Double.valueOf(dadosSerie.avaliacao())).orElse(0);
+        this.avaliacao = OptionalDouble.of(Double.valueOf(dadosSerie.avaliacao())).orElse(0.0);
         this.genero = Categoria.fromString(dadosSerie.genero().split(",")[0].trim());
         this.atores = dadosSerie.atores();
         this.poster = dadosSerie.poster();
-        this.sinopse = dadosSerie.sinopse();
-
-
+        this.sinopse = ConsultaMyMemory.obterTraducao(dadosSerie.sinopse()).trim();
     }
 
     @Override
@@ -96,6 +87,6 @@ public class Serie {
                 ", atores='" + atores + '\'' +
                 ", avaliacao=" + avaliacao +
                 ", totalTemporadas=" + totalTemporadas +
-                "poster='" + poster + '\'';
+                ", poster='" + poster + '\'';
     }
 }
