@@ -3,11 +3,11 @@ package br.com.alura.filme.principal;
 import br.com.alura.filme.model.DadosSerie;
 import br.com.alura.filme.model.DadosTemporada;
 import br.com.alura.filme.model.Serie;
+import br.com.alura.filme.repository.SerieRepository;
 import br.com.alura.filme.service.ConsumoApi;
 import br.com.alura.filme.service.ConverteDados;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 
 public class Principal {
@@ -17,8 +17,12 @@ public class Principal {
     private final ConverteDados conversor = new ConverteDados();
     private final String ENDERECO = "https://www.omdbapi.com/?t=";
     private final String API_KEY = "&apikey=b1a75282";
+    private final SerieRepository repositorio;
 
-    private List<DadosSerie> dadosSeries = new ArrayList<>();
+
+    public Principal(SerieRepository repositorio) {
+        this.repositorio = repositorio;
+    }
 
 
     public void exibeMenu() {
@@ -28,9 +32,9 @@ public class Principal {
                     1 - Buscar Séries
                     2 - Buscar Episódios
                     3 - Listar séries buscadas
-                                     
+                                       \s
                     0 - Sair
-                    """;
+                   \s""";
 
             System.out.println(menu);
             opcao = leitura.nextInt();
@@ -57,7 +61,10 @@ public class Principal {
 
     private void buscarSerieWeb() {
         DadosSerie dados = getDadosSerie();
-        dadosSeries.add(dados);
+        Serie serie;
+        serie = new Serie(dados);
+//        dadosSeries.add(dados);
+        Serie save = repositorio.save(serie);
         System.out.println(dados);
     }
 
@@ -66,7 +73,7 @@ public class Principal {
         System.out.println("Digite  o nome da série para busca");
         var nomeSerie = leitura.nextLine();
         var json = consumo.obterDados(ENDERECO + nomeSerie.replace(" ", "+") + API_KEY);
-        System.out.println(json); // Adicione esta linha para verificar o JSON
+        System.out.println(json);
         DadosSerie dados = conversor.obterDados(json, DadosSerie.class);
         return dados;
     }
@@ -86,10 +93,7 @@ public class Principal {
 
 
     private void listarSeriesBuscadas() {
-        List<Serie> series = new ArrayList<>();
-        series = dadosSeries.stream()
-                .map(d -> new Serie(d))
-                .collect(Collectors.toList());
+        List<Serie> series = repositorio.findAll();
         series.stream()
                 .sorted(Comparator.comparing(Serie::getGenero))
                 .forEach(System.out::println);
