@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.OptionalDouble;
 
+import static br.com.alura.filme.model.Categoria.fromString;
+
 @Entity
 @Table(name = "series")
 
@@ -32,8 +34,10 @@ public class Serie {
 
     private String sinopse;
 
-    @Transient
+
+    @OneToMany(mappedBy = "serie", cascade = CascadeType.ALL)
     private List<Episodio> episodios = new ArrayList<>();
+
 
     public Serie() {
     }
@@ -98,7 +102,7 @@ public class Serie {
         this.titulo = dadosSerie.titulo();
         this.totalTemporadas = dadosSerie.totalTemporadas();
         this.avaliacao = OptionalDouble.of(Double.valueOf(dadosSerie.avaliacao())).orElse(0.0);
-        this.genero = Categoria.fromString(dadosSerie.genero().split(",")[0].trim());
+        this.genero = fromString(dadosSerie.genero().split(",")[0].trim());
         this.atores = dadosSerie.atores();
         this.poster = dadosSerie.poster();
         this.sinopse = ConsultaMyMemory.obterTraducao(dadosSerie.sinopse()).trim();
@@ -117,6 +121,7 @@ public class Serie {
     }
 
     public void setEpisodios(List<Episodio> episodios) {
+        episodios.forEach(e -> e.setSerie(this));
         this.episodios = episodios;
     }
 
