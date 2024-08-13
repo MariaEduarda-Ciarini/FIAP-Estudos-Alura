@@ -1,0 +1,105 @@
+*** SoundJ Musics ***
+
+1- Cadastrar artistas
+2- Cadastrar músicas
+3- Listar músicas
+4- Buscar músicas por artistas
+
+0 - Sair
+
+1
+Digite o nome do artista: 
+Pearl Jam
+
+Informe o tipo desse artista: (SOLO, DUPLA OU BANDA)
+Solo
+
+Cadastrar novo artista? (S/N)
+S
+
+Digite o nome do artista: 
+The Who
+
+Informe o tipo desse artista: (SOLO, DUPLA OU BANDA)
+
+banda
+Cadastrar novo artista? (S/N)
+
+n
+
+*** SoundJ Musics ***
+
+1- Cadastrar artistas
+2- Cadastrar músicas
+3- Listar músicas
+4- Buscar músicas por artistas
+
+0 - Sair
+
+2
+Cadastrar música de qual artista?
+
+pearl
+
+Informe o título da música: 
+even flow
+
+*** SoundJ Musics ***
+1- Cadastrar artistas
+2- Cadastrar músicas
+3- Listar músicas
+4- Buscar músicas por artistas
+
+0 - Sair
+
+3
+Musica{titulo='Coordinate', artista=travis scott
+Musica{titulo='NC-17', artista=travis scott
+Musica{titulo='No Bystanders', artista=travis scott
+Musica{titulo='Da Fonk(feat.Joni)', artista=mochakk
+Musica{titulo='False Need', artista=mochakk
+Musica{titulo='Thunder Kiss'65', artista=white zombie
+Musica{titulo='blitzkrieg bop', artista=Ramones
+Musica{titulo='For Whom The Bell Tolls', artista=metallica
+Musica{titulo='I'm on My Way', artista=The Proclaimers
+Musica{titulo='Pale Shelter', artista=Tears For Fears
+Musica{titulo='I Ran', artista=A Flock Of Seagulls
+Musica{titulo='Fascination', artista=The Human League
+Musica{titulo='Out of Touch', artista=Daryl Hall & John Oates
+Musica{titulo='Funkytown', artista=Lipps Inc,
+Musica{titulo='Money(That's What i Want)', artista=Barret Strong
+Musica{titulo='Alabama Song (Whisky Bar)', artista=The Doors
+Musica{titulo='Twentieth Century Fox', artista=The Doors
+Musica{titulo='Soul Kitchen', artista=The Doors
+Musica{titulo='Light My Fire', artista=The Doors
+Musica{titulo='Back Door Man', artista=The Doors
+Musica{titulo='I Loocked at You', artista=The Doors
+Musica{titulo='End of the Night', artista=The Doors
+Musica{titulo='Take it as it Comes', artista=The Doors
+Musica{titulo='Break on Through(To the Other Side)', artista=The Doors
+Musica{titulo='Even Flow', artista=Pearl Jam
+Musica{titulo='Eminence Front', artista=The Who
+
+
+*** SoundJ Musics ***
+1- Cadastrar artistas
+2- Cadastrar músicas
+3- Listar músicas
+4- Buscar músicas por artistas
+
+0 - Sair
+
+4
+Buscar músicas de que a artista?
+
+The Doors
+
+Musica{titulo='Alabama Song (Whisky Bar)', artista=The Doors
+Musica{titulo='Twentieth Century Fox', artista=The Doors
+Musica{titulo='Soul Kitchen', artista=The Doors
+Musica{titulo='Light My Fire', artista=The Doors
+Musica{titulo='Back Door Man', artista=The Doors
+Musica{titulo='I Loocked at You', artista=The Doors
+Musica{titulo='End of the Night', artista=The Doors
+Musica{titulo='Take it as it Comes', artista=The Doors
+Musica{titulo='Break on Through(To the Other Side)', artista=The Doors
