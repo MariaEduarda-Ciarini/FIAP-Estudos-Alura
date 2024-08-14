@@ -1,24 +1,15 @@
-Descrição<br>
+# FIAP & Alura - Projetos e Exercícios / Trabalhos (FIAP)
 
-Este repositório contém projetos e exercícios desenvolvidos durante o curso na FIAP mais a plataforma de cursos Alura, abordando as tecnologias Java, Python e Banco de Dados Oracle.<br>
+Este repositório contém projetos e exercícios desenvolvidos durante o curso na FIAP e na plataforma Alura, com foco em:
 
+- **Java**: Programação Orientada a Objetos.
+- **Python**: Desenvolvimento desktop/web, automação, análise de dados com Pandas e NumPy.
+- **Banco de Dados Oracle**: Modelagem de dados, SQL e PL/SQL.
 
-Tecnologias Estudadas<br>
+## Como Utilizar
 
-Java ->  Programação orientada a objetos.<br>
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/MariaEduarda-Ciarini/FIAP-Estudos-Alura
 
-Python -> Desenvolvimento de aplicações desktop e web, Scripts para automação e análise de dados. Aplicações em ciência de dados com bibliotecas como Pandas e NumPy etc....<br>
-
-Banco de Dados Oracle -> Modelagem de dados, criação e manipulação de tabelas. SQL e PL/SQL para consultas e procedimentos armazenados.<br><br>
-
-
-
-Como Utilizar:<br>
-
-Clone o repositório: git clone https://github.com/MariaEduarda-Ciarini/FIAP-Estudos-Alura<br>
-Navegue até o diretório desejado: cd repo/java<br>
-
-Contato para mais informações, entre em contato pelo e-mail: dudaciarinii@gmail.com
-
-
-📊 🐗 🐍 = 🦟
+Para mais informações, entre em contato: dudaciarinii@gmail.com
