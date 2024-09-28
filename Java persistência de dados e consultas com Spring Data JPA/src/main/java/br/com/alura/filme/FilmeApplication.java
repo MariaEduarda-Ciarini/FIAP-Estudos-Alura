@@ -9,19 +9,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class FilmeApplication implements CommandLineRunner {
-    @Autowired
-    private SerieRepository repositorio;
-
+public class FilmeApplication {
 
     public static void main(String[] args) throws RuntimeException {
         SpringApplication.run(FilmeApplication.class, args);
-    }
-
-    @Override
-    public void run(String... args) throws Exception {
-        Principal principal = new Principal(repositorio);
-        principal.exibeMenu();
-
     }
 }
