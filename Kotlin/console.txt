@@ -1,0 +1,62 @@
+Digite o código de um jogo para busca: 
+195910
+Resposta da API: {"info":{"title":"Max Payne 2","steamAppID":null,"thumb":"https:\/\/www.wingamestore.com\/images_boxshots\/master\/max-payne-2-1556323252.jpg"},"cheapestPriceEver":{"price":"8.99","date":1708142799},"deals":[{"storeID":"21","dealID":"BtQju0%2F35uSdssL3yk7uxG7PasVeb%2F6396BmYSG7X80%3D","price":"8.99","retailPrice":"9.99","savings":"10.010010"}]}
+Meu Jogo:
+Titulo: Max Payne 2
+Capa: https://www.wingamestore.com/images_boxshots/master/max-payne-2-1556323252.jpg
+Descricao: Descrição não fornecida.
+Deseja buscar um novo ID de algum jogo ou visualizar a lista de jogos pesquisados? (S/N/L)
+S
+Digite o código de um jogo para busca: 
+256291
+Resposta da API: {"info":{"title":"Grand Theft Auto: Vice City  The Definitive Edition","steamAppID":"1546990","thumb":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/1546990\/capsule_sm_120.jpg?t=1676922450"},"cheapestPriceEver":{"price":"29.99","date":1674158029},"deals":[{"storeID":"1","dealID":"xLNCQRggXWU2H7k8ZO0N2QjaRlA5K998zBNOTclmtmY%3D","price":"59.99","retailPrice":"59.99","savings":"0.000000"}]}
+Meu Jogo:
+Titulo: Grand Theft Auto: Vice City  The Definitive Edition
+Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/capsule_sm_120.jpg?t=1676922450
+Descricao: Descrição não fornecida.
+Deseja buscar um novo ID de algum jogo ou visualizar a lista de jogos pesquisados? (S/N/L)
+S
+Digite o código de um jogo para busca: 
+88168
+Resposta da API: {"info":{"title":"Far Cry 3","steamAppID":"220240","thumb":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/220240\/capsule_sm_120.jpg?t=1682960396"},"cheapestPriceEver":{"price":"2.58","date":1594633577},"deals":[{"storeID":"3","dealID":"TQHSbUOX9A4QxVRlmeZENqIVE1bZgHI6s4P4ABaqTqU%3D","price":"4.40","retailPrice":"19.99","savings":"77.988994"},{"storeID":"11","dealID":"HwBgNpBBGc%2FVzwqLj72GOIoewqb%2FztTsT6bwHf1Ks44%3D","price":"4.99","retailPrice":"19.99","savings":"75.037519"},{"storeID":"27","dealID":"Y5eFM5eMxF5OgdWDu4pXf0LZBfSz6ylpUy7cq9cMDQc%3D","price":"17.99","retailPrice":"19.99","savings":"10.005003"},{"storeID":"1","dealID":"RQ3PZNR7tMKlawIPhNMmVDXaJkOT4JpgQGGyKGrC9pA%3D","price":"19.99","retailPrice":"19.99","savings":"0.000000"},{"storeID":"13","dealID":"3odGguOW5VKH1KL3csViPc%2BScW2RsMS%2BF9yKDExdLjA%3D","price":"19.99","retailPrice":"19.99","savings":"0.000000"}]}
+Meu Jogo:
+Titulo: Far Cry 3
+Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/capsule_sm_120.jpg?t=1682960396
+Descricao: Descrição não fornecida.
+Deseja buscar um novo ID de algum jogo ou visualizar a lista de jogos pesquisados? (S/N/L)
+s
+Digite o código de um jogo para busca: 
+179004
+Resposta da API: {"info":{"title":"Crash Bandicoot N. Sane Trilogy","steamAppID":"731490","thumb":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/731490\/capsule_sm_120.jpg?t=1568841571"},"cheapestPriceEver":{"price":"15.99","date":1671754024},"deals":[{"storeID":"1","dealID":"Wbyy3UgsSB%2BLoQARbf1co3AT0GPGTue35jAUZti28Pg%3D","price":"39.99","retailPrice":"39.99","savings":"0.000000"}]}
+Meu Jogo:
+Titulo: Crash Bandicoot N. Sane Trilogy
+Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731490/capsule_sm_120.jpg?t=1568841571
+Descricao: Descrição não fornecida.
+Deseja buscar um novo ID de algum jogo ou visualizar a lista de jogos pesquisados? (S/N/L)
+s
+Digite o código de um jogo para busca: 
+429
+Resposta da API: {"info":{"title":"Hitman: Blood Money","steamAppID":"6860","thumb":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/6860\/capsule_sm_120.jpg?t=1667311083"},"cheapestPriceEver":{"price":"0.82","date":1724030487},"deals":[{"storeID":"2","dealID":"wr%2FGcWGz1rJaBM7K2rCKa9BKL5J5nrJz70I2aVe7I20%3D","price":"0.82","retailPrice":"9.99","savings":"91.791792"},{"storeID":"15","dealID":"DyaCM5kNK4OHDMAl4kYg%2FFUU8R13jQDc9sSrfhRflXE%3D","price":"0.84","retailPrice":"9.99","savings":"91.591592"},{"storeID":"34","dealID":"fkDYRBypzYPARtiinj6Lwmy1LYUusXm%2FcuWuO%2FKieAs%3D","price":"0.90","retailPrice":"9.99","savings":"90.990991"},{"storeID":"1","dealID":"2UqLyfZAFXpy7n5Uf9v2xwgCFKdnEQqVLvt6%2FkOSuYg%3D","price":"0.99","retailPrice":"9.99","savings":"90.090090"},{"storeID":"11","dealID":"5kM0WHrQz05ntkPtGOGRhIfWSdPZBatq7ejWj9MPQKs%3D","price":"0.99","retailPrice":"9.99","savings":"90.090090"},{"storeID":"7","dealID":"hz69tD7igaue5tPP9YlHRZTYhYSKEIubJSTVR3Sa2NA%3D","price":"0.99","retailPrice":"9.99","savings":"90.090090"},{"storeID":"27","dealID":"MH5AVjbHCxLF69ChUVz15YRAdNDL0P%2B17%2BL%2FQxwx3sA%3D","price":"0.99","retailPrice":"9.99","savings":"90.090090"},{"storeID":"30","dealID":"feFhDmyzztvK%2FSWOeiPsgwnyhHbGr52xhR7yZtyhW%2Bg%3D","price":"0.99","retailPrice":"9.99","savings":"90.090090"},{"storeID":"23","dealID":"3sWQP4%2BU0gHpRJ2bM1Oq7%2BLEwmZDEqI10Ty9BLFZxPU%3D","price":"1.00","retailPrice":"9.99","savings":"89.989990"},{"storeID":"33","dealID":"s245V9vhbikvlYyZQi2kb%2BP3JQa0vawdZoA22zJxxic%3D","price":"1.00","retailPrice":"9.99","savings":"89.989990"},{"storeID":"24","dealID":"SazVV72uzF%2Fe1ttSCN1ldYcj7we1qSm23a2KjytvOZw%3D","price":"1.00","retailPrice":"9.99","savings":"89.989990"},{"storeID":"21","dealID":"OAdVGKofGjZd236uyVBl%2F2ChZw80oxhpW4Dm2mS4UJg%3D","price":"9.99","retailPrice":"9.99","savings":"0.000000"},{"storeID":"28","dealID":"5DNzLkPXAgcCIO9xePhCzG4JiLvaMxQAZ863V%2BoeTPc%3D","price":"9.99","retailPrice":"9.99","savings":"0.000000"},{"storeID":"3","dealID":"suoLZ7dpxNkzJceRENOCjNrw8Z5FaRszPApZbMk6aqg%3D","price":"9.99","retailPrice":"9.99","savings":"0.000000"}]}
+Meu Jogo:
+Titulo: Hitman: Blood Money
+Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/capsule_sm_120.jpg?t=1667311083
+Descricao: Descrição não fornecida.
+Deseja buscar um novo ID de algum jogo ou visualizar a lista de jogos pesquisados? (S/N/L)
+s
+Digite o código de um jogo para busca: 
+110672
+Resposta da API: {"info":{"title":"The Forest","steamAppID":"242760","thumb":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/242760\/capsule_sm_120.jpg?t=1699381053"},"cheapestPriceEver":{"price":"4.59","date":1669140389},"deals":[{"storeID":"1","dealID":"UtQSu7miPCHR3gsqKT0rK9yd5InavCWWYc8spWgOeSY%3D","price":"19.99","retailPrice":"19.99","savings":"0.000000"},{"storeID":"11","dealID":"X11XbO3tmD%2FqQ4KBszwtzgg4OzcDeEUroy%2Fim12%2F1%2BQ%3D","price":"19.99","retailPrice":"19.99","savings":"0.000000"}]}
+Meu Jogo:
+Titulo: The Forest
+Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_sm_120.jpg?t=1699381053
+Descricao: Descrição não fornecida.
+Deseja buscar um novo ID de algum jogo ou visualizar a lista de jogos pesquisados? (S/N/L)
+l
+Jogos Pesquisados:
+Título: Max Payne 2, Capa: https://www.wingamestore.com/images_boxshots/master/max-payne-2-1556323252.jpg, Descrição: Descrição não fornecida.
+Título: Grand Theft Auto: Vice City  The Definitive Edition, Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/capsule_sm_120.jpg?t=1676922450, Descrição: Descrição não fornecida.
+Título: Far Cry 3, Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/capsule_sm_120.jpg?t=1682960396, Descrição: Descrição não fornecida.
+Título: Crash Bandicoot N. Sane Trilogy, Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731490/capsule_sm_120.jpg?t=1568841571, Descrição: Descrição não fornecida.
+Título: Hitman: Blood Money, Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/capsule_sm_120.jpg?t=1667311083, Descrição: Descrição não fornecida.
+Título: The Forest, Capa: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/capsule_sm_120.jpg?t=1699381053, Descrição: Descrição não fornecida.
+Busca por ID de jogo finalizada com sucesso!
