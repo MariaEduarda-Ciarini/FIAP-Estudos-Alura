@@ -1,0 +1,416 @@
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+1
+Digite o nome da série para busca
+Xiaolin Showdown
+{"Title":"Xiaolin Showdown","Year":"2003–2006","Rated":"TV-Y7","Released":"01 Nov 2003","Runtime":"59S min","Genre":"Animation, Action, Adventure","Director":"N/A","Writer":"Christy Hui, Brandon Sawyer","Actors":"Jeff Bennett, Danny Cooksey, Grey Griffin","Plot":"A young Xiaolin monk named Omi with a giant yellow head leads a trio of other students to collect powerful items known as Shen Gong Wu while battling the evil Jack Spicer who is also after the artifacts","Language":"English","Country":"United States, South Korea","Awards":"1 win & 6 nominations","Poster":"https://m.media-amazon.com/images/M/MV5BOTdkNGQ3ZTktMDg1Yy00YzVmLWJhNDQtMWExNWEwNzk1NzM2XkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.4/10"}],"Metascore":"N/A","imdbRating":"7.4","imdbVotes":"8,010","imdbID":"tt0386993","Type":"series","totalSeasons":"3","Response":"True"}
+DadosSerie[titulo=Xiaolin Showdown, totalTemporadas=3, avaliacao=7.4, genero=Animation, Action, Adventure, atores=Jeff Bennett, Danny Cooksey, Grey Griffin, poster=https://m.media-amazon.com/images/M/MV5BOTdkNGQ3ZTktMDg1Yy00YzVmLWJhNDQtMWExNWEwNzk1NzM2XkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_SX300.jpg, sinopse=A young Xiaolin monk named Omi with a giant yellow head leads a trio of other students to collect powerful items known as Shen Gong Wu while battling the evil Jack Spicer who is also after the artifacts]
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+1
+Digite o nome da série para busca
+Total Drama
+{"Title":"Total Drama","Year":"2007–2014","Rated":"TV-PG","Released":"08 Jul 2007","Runtime":"22 min","Genre":"Animation, Action, Adventure","Director":"N/A","Writer":"Tom McGillis, Jennifer Pertsch","Actors":"Christian Potenza, Clé Bennett, Rachel Wilson","Plot":"Animated satire of survivor reality shows featuring random teenage archetypes vying for the final prize by any means necessary.","Language":"Romanian, English, French, Spanish","Country":"Canada, United States, France","Awards":"2 nominations","Poster":"https://m.media-amazon.com/images/M/MV5BMTRlMWU4YjktNWM5My00ZmI5LWE4NWEtNDRmNGMxNDIxYjEwXkEyXkFqcGdeQXVyOTQ1MjE4OTE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.4/10"}],"Metascore":"N/A","imdbRating":"7.4","imdbVotes":"14,528","imdbID":"tt1173427","Type":"series","totalSeasons":"5","Response":"True"}
+DadosSerie[titulo=Total Drama, totalTemporadas=5, avaliacao=7.4, genero=Animation, Action, Adventure, atores=Christian Potenza, Clé Bennett, Rachel Wilson, poster=https://m.media-amazon.com/images/M/MV5BMTRlMWU4YjktNWM5My00ZmI5LWE4NWEtNDRmNGMxNDIxYjEwXkEyXkFqcGdeQXVyOTQ1MjE4OTE@._V1_SX300.jpg, sinopse=Animated satire of survivor reality shows featuring random teenage archetypes vying for the final prize by any means necessary.]
+
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+2
+genero=ACAO, titulo='The Last of Us', sinopse='Depois que uma pandemia global destrói a civilização, um sobrevivente endurecido se encarrega de uma menina de 14 anos que pode ser a última esperança da humanidade.', atores='Pedro Pascal, Bella Ramsey, Anna Torv', avaliacao=8.7, totalTemporadas=2, poster='https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_SX300.jpg'
+genero=COMEDIA, titulo='Emily in Paris', sinopse='Uma jovem americana do Centro-Oeste é contratada por uma empresa de marketing em Paris para fornecer-lhes uma perspectiva americana sobre as coisas.', atores='Lily Collins, Ashley Park, Philippine Leroy-Beaulieu', avaliacao=6.9, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BYjg0OTY5N2UtZDljZS00NDc2LWI1MDAtMDdmN2Q3OTNkMjA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg'
+genero=COMEDIA, titulo='Friends', sinopse='Segue a vida pessoal e profissional de seis amigos de vinte a trinta anos que vivem no bairro de Manhattan, em Nova York.', atores='Jennifer Aniston, Courteney Cox, Lisa Kudrow', avaliacao=8.9, totalTemporadas=10, poster='https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg'
+genero=COMEDIA, titulo='The Big Bang Theory', sinopse='A aspirante a atriz de cinema Penny muda-se para um apartamento em Pasadena do outro lado do corredor dos brilhantes, mas socialmente desajeitados, físicos Sheldon Cooper e Leonard Hofstadter e mostra-lhes o quão pouco sabem sobre a vida fora do laboratório.', atores='Johnny Galecki, Jim Parsons, Kaley Cuoco', avaliacao=8.1, totalTemporadas=12, poster='https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg'
+genero=COMEDIA, titulo='The Office', sinopse='Um mockumentary sobre um grupo de trabalhadores de escritório típicos, onde a jornada de trabalho consiste em confrontos de ego, comportamento inadequado, tédio e romance.', atores='Steve Carell, Jenna Fischer, John Krasinski', avaliacao=9.0, totalTemporadas=9, poster='https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg'
+genero=COMEDIA, titulo='The Ranch', sinopse='O filho de um fazendeiro do Colorado volta para casa de uma carreira semi-profissional no futebol para administrar o negócio da família.', atores='Ashton Kutcher, Sam Elliott, Grady Lee Richmond', avaliacao=7.5, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BMTYxOTU5ODE0OV5BMl5BanBnXkFtZTgwNzM0MzQ1MDI@._V1_SX300.jpg'
+genero=COMEDIA, titulo='Sex Education', sinopse='Um adolescente com uma mãe terapeuta sexual junta-se a um colega de escola para montar uma clínica de terapia sexual clandestina na escola.', atores='Asa Butterfield, Gillian Anderson, Ncuti Gatwa', avaliacao=8.2, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_SX300.jpg'
+genero=COMEDIA, titulo='Orange Is the New Black', sinopse='Condenada por um crime de uma década de transporte de dinheiro de drogas, Piper Chapman, normalmente cumpridora da lei, é condenada a 18 meses atrás das grades e rapidamente descobre as realidades do tempo de prisão que mudam a vida.', atores='Taylor Schilling, Danielle Brooks, Taryn Manning', avaliacao=8.0, totalTemporadas=7, poster='https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg'
+genero=DRAMA, titulo='The Walking Dead', sinopse='O xerife-adjunto Rick Grimes acorda de um coma para descobrir que o mundo está em ruínas e deve liderar um grupo de sobreviventes para se manter vivo.', atores='Andrew Lincoln, Norman Reedus, Melissa McBride', avaliacao=8.1, totalTemporadas=11, poster='https://m.media-amazon.com/images/M/MV5BNzI5MjUyYTEtMTljZC00NGI5LWFhNWYtYjY0ZTQ5YmEzMWRjXkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_SX300.jpg'
+genero=DRAMA, titulo='American Horror Story', sinopse='Uma série de antologias centrada em diferentes personagens e locais, mostrando diferentes aspectos do horror.', atores='Lady Gaga, Kathy Bates, Angela Bassett', avaliacao=8.0, totalTemporadas=12, poster='https://m.media-amazon.com/images/M/MV5BM2ZlMjQ2ZmEtODEwYi00ZTk5LThmY2UtYWFiNzE3MjZjNzQyXkEyXkFqcGdeQXVyMTU1ODIwMTM1._V1_SX300.jpg'
+genero=DRAMA, titulo='Stranger Things', sinopse='Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.', atores='Millie Bobby Brown, Finn Wolfhard, Winona Ryder', avaliacao=8.7, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg'
+genero=CRIME, titulo='Breaking Bad', sinopse='Um professor de química diagnosticado com câncer de pulmão inoperável passa a fabricar e vender metanfetamina com um ex-aluno para garantir o futuro de sua família.', atores='Bryan Cranston, Aaron Paul, Anna Gunn', avaliacao=9.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Teen Titans', sinopse='Uma equipe de cinco super-heróis adolescentes salva o mundo de muitos vilões em sua cidade enquanto experimenta coisas que os adolescentes normais enfrentam hoje.', atores='Hynden Walch, Greg Cipes, Scott Menville', avaliacao=7.9, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BNjQ1NjBhZmQtZTlkOC00YTM2LWE3NjgtNmZjOWJhMjRkMTY1XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Naruto: Shippuden', sinopse='Naruto Uzumaki, é um ninja adolescente alto e hiperativo que busca constantemente aprovação e reconhecimento, bem como se tornar Hokage, que é reconhecido como o líder e mais forte de todos os ninjas da aldeia.', atores='Alexandre Crepet, Junko Takeuchi, Maile Flanagan', avaliacao=8.7, totalTemporadas=23, poster='https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='JoJo's Bizarre Adventure', sinopse='A história da família Joestar, possuída por uma intensa força psíquica, e as aventuras que cada membro encontra ao longo de suas vidas.', atores='David Vincent, Matthew Mercer, Daisuke Ono', avaliacao=8.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Attack on Titan', sinopse='Depois que sua cidade natal é destruída, o jovem Eren Jaeger promete limpar a terra dos Titãs humanóides gigantes que levaram a humanidade à beira da extinção.', atores='Jessie James Grelle, Bryce Papenbrook, Trina Nishimura', avaliacao=9.1, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Dragon Ball Z', sinopse='Com a ajuda das poderosas Esferas do Dragão, uma equipe de lutadores liderada pelo guerreiro saiyajin Goku defende o planeta Terra de inimigos extraterrestres.', atores='Doc Harris, Christopher Sabat, Scott McNeil', avaliacao=8.8, totalTemporadas=16, poster='https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Scooby Doo, Where Are You!', sinopse='Um grupo de amigos adolescentes e seu Dogue Alemão (Scooby-Doo) viajam em uma van verde brilhante resolvendo mistérios estranhos e hilariantes, enquanto retornam ou vão a uma função adolescente regular.', atores='Don Messick, Casey Kasem, Nicole Jaffe', avaliacao=7.9, totalTemporadas=3, poster='https://m.media-amazon.com/images/M/MV5BN2EyMmIyMWItZTRiYy00MmE1LTkyOTAtMTliMzYwZGJlYmFjXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Xiaolin Showdown', sinopse='Um jovem monge Xiaolin chamado Omi com uma cabeça amarela gigante lidera um trio de outros alunos para coletar itens poderosos conhecidos como Shen Gong Wu enquanto luta contra o malvado Jack Spicer, que também está atrás dos artefatos', atores='Jeff Bennett, Danny Cooksey, Grey Griffin', avaliacao=7.4, totalTemporadas=3, poster='https://m.media-amazon.com/images/M/MV5BOTdkNGQ3ZTktMDg1Yy00YzVmLWJhNDQtMWExNWEwNzk1NzM2XkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Total Drama', sinopse='Sátira animada de reality shows de sobreviventes com arquétipos adolescentes aleatórios disputando o prêmio final por qualquer meio necessário.', atores='Christian Potenza, Clé Bennett, Rachel Wilson', avaliacao=7.4, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BMTRlMWU4YjktNWM5My00ZmI5LWE4NWEtNDRmNGMxNDIxYjEwXkEyXkFqcGdeQXVyOTQ1MjE4OTE@._V1_SX300.jpg'
+Escolha uma serie pelo nome: 
+The Last Of us
+DadosTemporada[numero=1, episodios=[DadosEpisodio[titulo=When You're Lost in the Darkness, numero=1, avaliacao=9.1, dataLancamento=2023-01-15], DadosEpisodio[titulo=Infected, numero=2, avaliacao=9.1, dataLancamento=2023-01-22], DadosEpisodio[titulo=Long, Long Time, numero=3, avaliacao=8.1, dataLancamento=2023-01-29], DadosEpisodio[titulo=Please Hold to My Hand, numero=4, avaliacao=8.4, dataLancamento=2023-02-05], DadosEpisodio[titulo=Endure and Survive, numero=5, avaliacao=9.4, dataLancamento=2023-02-10], DadosEpisodio[titulo=Kin, numero=6, avaliacao=8.8, dataLancamento=2023-02-19], DadosEpisodio[titulo=Left Behind, numero=7, avaliacao=7.4, dataLancamento=2023-02-26], DadosEpisodio[titulo=When We Are in Need, numero=8, avaliacao=9.3, dataLancamento=2023-03-05], DadosEpisodio[titulo=Look for the Light, numero=9, avaliacao=9.0, dataLancamento=2023-03-12]]]
+DadosTemporada[numero=2, episodios=[DadosEpisodio[titulo=Episode #2.1, numero=1, avaliacao=N/A, dataLancamento=N/A]]]
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+3
+genero=ACAO, titulo='The Last of Us', sinopse='Depois que uma pandemia global destrói a civilização, um sobrevivente endurecido se encarrega de uma menina de 14 anos que pode ser a última esperança da humanidade.', atores='Pedro Pascal, Bella Ramsey, Anna Torv', avaliacao=8.7, totalTemporadas=2, poster='https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_SX300.jpg'
+genero=COMEDIA, titulo='Emily in Paris', sinopse='Uma jovem americana do Centro-Oeste é contratada por uma empresa de marketing em Paris para fornecer-lhes uma perspectiva americana sobre as coisas.', atores='Lily Collins, Ashley Park, Philippine Leroy-Beaulieu', avaliacao=6.9, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BYjg0OTY5N2UtZDljZS00NDc2LWI1MDAtMDdmN2Q3OTNkMjA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg'
+genero=COMEDIA, titulo='Friends', sinopse='Segue a vida pessoal e profissional de seis amigos de vinte a trinta anos que vivem no bairro de Manhattan, em Nova York.', atores='Jennifer Aniston, Courteney Cox, Lisa Kudrow', avaliacao=8.9, totalTemporadas=10, poster='https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg'
+genero=COMEDIA, titulo='The Big Bang Theory', sinopse='A aspirante a atriz de cinema Penny muda-se para um apartamento em Pasadena do outro lado do corredor dos brilhantes, mas socialmente desajeitados, físicos Sheldon Cooper e Leonard Hofstadter e mostra-lhes o quão pouco sabem sobre a vida fora do laboratório.', atores='Johnny Galecki, Jim Parsons, Kaley Cuoco', avaliacao=8.1, totalTemporadas=12, poster='https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg'
+genero=COMEDIA, titulo='The Office', sinopse='Um mockumentary sobre um grupo de trabalhadores de escritório típicos, onde a jornada de trabalho consiste em confrontos de ego, comportamento inadequado, tédio e romance.', atores='Steve Carell, Jenna Fischer, John Krasinski', avaliacao=9.0, totalTemporadas=9, poster='https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg'
+genero=COMEDIA, titulo='The Ranch', sinopse='O filho de um fazendeiro do Colorado volta para casa de uma carreira semi-profissional no futebol para administrar o negócio da família.', atores='Ashton Kutcher, Sam Elliott, Grady Lee Richmond', avaliacao=7.5, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BMTYxOTU5ODE0OV5BMl5BanBnXkFtZTgwNzM0MzQ1MDI@._V1_SX300.jpg'
+genero=COMEDIA, titulo='Sex Education', sinopse='Um adolescente com uma mãe terapeuta sexual junta-se a um colega de escola para montar uma clínica de terapia sexual clandestina na escola.', atores='Asa Butterfield, Gillian Anderson, Ncuti Gatwa', avaliacao=8.2, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_SX300.jpg'
+genero=COMEDIA, titulo='Orange Is the New Black', sinopse='Condenada por um crime de uma década de transporte de dinheiro de drogas, Piper Chapman, normalmente cumpridora da lei, é condenada a 18 meses atrás das grades e rapidamente descobre as realidades do tempo de prisão que mudam a vida.', atores='Taylor Schilling, Danielle Brooks, Taryn Manning', avaliacao=8.0, totalTemporadas=7, poster='https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg'
+genero=DRAMA, titulo='The Walking Dead', sinopse='O xerife-adjunto Rick Grimes acorda de um coma para descobrir que o mundo está em ruínas e deve liderar um grupo de sobreviventes para se manter vivo.', atores='Andrew Lincoln, Norman Reedus, Melissa McBride', avaliacao=8.1, totalTemporadas=11, poster='https://m.media-amazon.com/images/M/MV5BNzI5MjUyYTEtMTljZC00NGI5LWFhNWYtYjY0ZTQ5YmEzMWRjXkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_SX300.jpg'
+genero=DRAMA, titulo='American Horror Story', sinopse='Uma série de antologias centrada em diferentes personagens e locais, mostrando diferentes aspectos do horror.', atores='Lady Gaga, Kathy Bates, Angela Bassett', avaliacao=8.0, totalTemporadas=12, poster='https://m.media-amazon.com/images/M/MV5BM2ZlMjQ2ZmEtODEwYi00ZTk5LThmY2UtYWFiNzE3MjZjNzQyXkEyXkFqcGdeQXVyMTU1ODIwMTM1._V1_SX300.jpg'
+genero=DRAMA, titulo='Stranger Things', sinopse='Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.', atores='Millie Bobby Brown, Finn Wolfhard, Winona Ryder', avaliacao=8.7, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg'
+genero=CRIME, titulo='Breaking Bad', sinopse='Um professor de química diagnosticado com câncer de pulmão inoperável passa a fabricar e vender metanfetamina com um ex-aluno para garantir o futuro de sua família.', atores='Bryan Cranston, Aaron Paul, Anna Gunn', avaliacao=9.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Teen Titans', sinopse='Uma equipe de cinco super-heróis adolescentes salva o mundo de muitos vilões em sua cidade enquanto experimenta coisas que os adolescentes normais enfrentam hoje.', atores='Hynden Walch, Greg Cipes, Scott Menville', avaliacao=7.9, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BNjQ1NjBhZmQtZTlkOC00YTM2LWE3NjgtNmZjOWJhMjRkMTY1XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Naruto: Shippuden', sinopse='Naruto Uzumaki, é um ninja adolescente alto e hiperativo que busca constantemente aprovação e reconhecimento, bem como se tornar Hokage, que é reconhecido como o líder e mais forte de todos os ninjas da aldeia.', atores='Alexandre Crepet, Junko Takeuchi, Maile Flanagan', avaliacao=8.7, totalTemporadas=23, poster='https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='JoJo's Bizarre Adventure', sinopse='A história da família Joestar, possuída por uma intensa força psíquica, e as aventuras que cada membro encontra ao longo de suas vidas.', atores='David Vincent, Matthew Mercer, Daisuke Ono', avaliacao=8.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Attack on Titan', sinopse='Depois que sua cidade natal é destruída, o jovem Eren Jaeger promete limpar a terra dos Titãs humanóides gigantes que levaram a humanidade à beira da extinção.', atores='Jessie James Grelle, Bryce Papenbrook, Trina Nishimura', avaliacao=9.1, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Dragon Ball Z', sinopse='Com a ajuda das poderosas Esferas do Dragão, uma equipe de lutadores liderada pelo guerreiro saiyajin Goku defende o planeta Terra de inimigos extraterrestres.', atores='Doc Harris, Christopher Sabat, Scott McNeil', avaliacao=8.8, totalTemporadas=16, poster='https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Scooby Doo, Where Are You!', sinopse='Um grupo de amigos adolescentes e seu Dogue Alemão (Scooby-Doo) viajam em uma van verde brilhante resolvendo mistérios estranhos e hilariantes, enquanto retornam ou vão a uma função adolescente regular.', atores='Don Messick, Casey Kasem, Nicole Jaffe', avaliacao=7.9, totalTemporadas=3, poster='https://m.media-amazon.com/images/M/MV5BN2EyMmIyMWItZTRiYy00MmE1LTkyOTAtMTliMzYwZGJlYmFjXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Xiaolin Showdown', sinopse='Um jovem monge Xiaolin chamado Omi com uma cabeça amarela gigante lidera um trio de outros alunos para coletar itens poderosos conhecidos como Shen Gong Wu enquanto luta contra o malvado Jack Spicer, que também está atrás dos artefatos', atores='Jeff Bennett, Danny Cooksey, Grey Griffin', avaliacao=7.4, totalTemporadas=3, poster='https://m.media-amazon.com/images/M/MV5BOTdkNGQ3ZTktMDg1Yy00YzVmLWJhNDQtMWExNWEwNzk1NzM2XkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_SX300.jpg'
+genero=ANIMACAO, titulo='Total Drama', sinopse='Sátira animada de reality shows de sobreviventes com arquétipos adolescentes aleatórios disputando o prêmio final por qualquer meio necessário.', atores='Christian Potenza, Clé Bennett, Rachel Wilson', avaliacao=7.4, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BMTRlMWU4YjktNWM5My00ZmI5LWE4NWEtNDRmNGMxNDIxYjEwXkEyXkFqcGdeQXVyOTQ1MjE4OTE@._V1_SX300.jpg'
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+4
+Escolha uma serie pelo nome: 
+Breaking
+Dados da série: genero=CRIME, titulo='Breaking Bad', sinopse='Um professor de química diagnosticado com câncer de pulmão inoperável passa a fabricar e vender metanfetamina com um ex-aluno para garantir o futuro de sua família.', atores='Bryan Cranston, Aaron Paul, Anna Gunn', avaliacao=9.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg'
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+5
+Qual nome para busca?
+Aaron Paul
+Séries em que Aaron Paul trabalhou: 
+Breaking Bad avaliação: 9.5
+
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+6
+Breaking Bad avaliação: 9.5
+Attack on Titan avaliação: 9.1
+The Office avaliação: 9.0
+Friends avaliação: 8.9
+Dragon Ball Z avaliação: 8.8
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+7
+Deseja buscar séries de que categoria/gênero? 
+Crime
+Séries da categoria Crime
+genero=CRIME, titulo='Breaking Bad', sinopse='Um professor de química diagnosticado com câncer de pulmão inoperável passa a fabricar e vender metanfetamina com um ex-aluno para garantir o futuro de sua família.', atores='Bryan Cranston, Aaron Paul, Anna Gunn', avaliacao=9.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg'
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+8
+Filtrar séries até quantas temporadas? 
+2
+Com avaliação a partir de que valor? 
+8
+*** Séries filtradas ***
+The Last of Us  - avaliação: 8.7
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episodios por trecho
+
+ 0 - Sair
+
+9
+Qual nome do episodio para busca?
+pilot
+Série: Breaking Bad Temporada 1 - Episódio 1 - Pilot
+
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episódios por trecho
+ 10 - Top 5 Episódios por série
+
+ 0 - Sair
+
+10
+
+Escolha uma série pelo nome: 
+breaking bad
+
+Dados da série: genero=CRIME, titulo='Breaking Bad', sinopse='Um professor de química diagnosticado com câncer de pulmão inoperável passa a fabricar e vender metanfetamina com um ex-aluno para garantir o futuro de sua família.', atores='Bryan Cranston, Aaron Paul, Anna Gunn', avaliacao=9.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg'
+
+Série: Breaking Bad Temporada 5 - Episódio 14 - Ozymandias - Avaliação: 10,00
+Série: Breaking Bad Temporada 4 - Episódio 13 - Face Off - Avaliação: 9,90
+Série: Breaking Bad Temporada 5 - Episódio 16 - Felina - Avaliação: 9,90
+Série: Breaking Bad Temporada 5 - Episódio 13 - To'hajiilee - Avaliação: 9,80
+Série: Breaking Bad Temporada 4 - Episódio 11 - Crawl Space - Avaliação: 9,70
+
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episódios por trecho
+ 10 - Top 5 Episódios por série
+
+ 0 - Sair
+
+10
+
+Escolha uma série pelo nome: 
+
+emily in paris
+
+Dados da série: genero=COMEDIA, titulo='Emily in Paris', sinopse='Uma jovem americana do Centro-Oeste é contratada por uma empresa de marketing em Paris para fornecer-lhes uma perspectiva americana sobre as coisas.', atores='Lily Collins, Ashley Park, Philippine Leroy-Beaulieu', avaliacao=6.9, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BYjg0OTY5N2UtZDljZS00NDc2LWI1MDAtMDdmN2Q3OTNkMjA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg'
+
+Série: Emily in Paris Temporada 1 - Episódio 10 - Cancel Couture - Avaliação: 7,60
+Série: Emily in Paris Temporada 2 - Episódio 10 - French Revolution - Avaliação: 7,50
+Série: Emily in Paris Temporada 1 - Episódio 4 - A Kiss Is Just a Kiss - Avaliação: 7,50
+Série: Emily in Paris Temporada 1 - Episódio 8 - Family Affair - Avaliação: 7,50
+Série: Emily in Paris Temporada 1 - Episódio 5 - Faux Amis - Avaliação: 7,30
+
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episódios por trecho
+ 10 - Top 5 Episódios por série
+
+ 0 - Sair
+
+10
+
+Escolha uma série pelo nome: 
+
+the big bang theory
+
+Dados da série: genero=COMEDIA, titulo='The Big Bang Theory', sinopse='A aspirante a atriz de cinema Penny muda-se para um apartamento em Pasadena do outro lado do corredor dos brilhantes, mas socialmente desajeitados, físicos Sheldon Cooper e Leonard Hofstadter e mostra-lhes o quão pouco sabem sobre a vida fora do laboratório.', atores='Johnny Galecki, Jim Parsons, Kaley Cuoco', avaliacao=8.1, totalTemporadas=12, poster='https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg'
+
+Série: The Big Bang Theory Temporada 12 - Episódio 24 - The Stockholm Syndrome - Avaliação: 9,50
+Série: The Big Bang Theory Temporada 2 - Episódio 11 - The Bath Item Gift Hypothesis - Avaliação: 9,10
+Série: The Big Bang Theory Temporada 3 - Episódio 22 - The Staircase Implementation - Avaliação: 9,00
+Série: The Big Bang Theory Temporada 9 - Episódio 11 - The Opening Night Excitation - Avaliação: 9,00
+Série: The Big Bang Theory Temporada 11 - Episódio 24 - The Bow Tie Asymmetry - Avaliação: 9,00
+
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episódios por trecho
+ 10 - Top 5 Episódios por série
+
+ 0 - Sair
+
+10
+Escolha uma série pelo nome: 
+sex education
+Dados da série: genero=COMEDIA, titulo='Sex Education', sinopse='Um adolescente com uma mãe terapeuta sexual junta-se a um colega de escola para montar uma clínica de terapia sexual clandestina na escola.', atores='Asa Butterfield, Gillian Anderson, Ncuti Gatwa', avaliacao=8.2, totalTemporadas=4, poster='https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_SX300.jpg'
+Série: Sex Education Temporada 2 - Episódio 7 - Episode 7 - Avaliação: 9,00
+Série: Sex Education Temporada 3 - Episódio 5 - Episode 5 - Avaliação: 8,90
+Série: Sex Education Temporada 3 - Episódio 7 - Episode 7 - Avaliação: 8,70
+Série: Sex Education Temporada 1 - Episódio 5 - Episode 5 - Avaliação: 8,70
+Série: Sex Education Temporada 1 - Episódio 7 - Episode 7 - Avaliação: 8,60
+
+ 1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episódios por trecho
+ 10 - Top 5 Episódios por série
+11 - Buscar episodios a partir de uma data
+
+ 0 - Sair
+
+11
+Escolha uma série pelo nome: 
+breaking bad
+Dados da série: genero=CRIME, titulo='Breaking Bad', sinopse='Um professor de química diagnosticado com câncer de pulmão inoperável passa a fabricar e vender metanfetamina com um ex-aluno para garantir o futuro de sua família.', atores='Bryan Cranston, Aaron Paul, Anna Gunn', avaliacao=9.5, totalTemporadas=5, poster='https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg'
+Digite o ano limite de lançamento:  
+2012
+Episodio{temporada=5, titulo='Live Free or Die', numeroEpisodio=1, avaliacao=9.2, dataLancamento=2012-07-15}
+Episodio{temporada=5, titulo='Madrigal', numeroEpisodio=2, avaliacao=8.8, dataLancamento=2012-07-22}
+Episodio{temporada=5, titulo='Hazard Pay', numeroEpisodio=3, avaliacao=8.8, dataLancamento=2012-07-29}
+Episodio{temporada=5, titulo='Fifty-One', numeroEpisodio=4, avaliacao=8.8, dataLancamento=2012-08-05}
+Episodio{temporada=5, titulo='Dead Freight', numeroEpisodio=5, avaliacao=9.7, dataLancamento=2012-08-12}
+Episodio{temporada=5, titulo='Buyout', numeroEpisodio=6, avaliacao=9.0, dataLancamento=2012-08-19}
+Episodio{temporada=5, titulo='Say My Name', numeroEpisodio=7, avaliacao=9.6, dataLancamento=2012-08-26}
+Episodio{temporada=5, titulo='Gliding Over All', numeroEpisodio=8, avaliacao=9.6, dataLancamento=2012-09-02}
+Episodio{temporada=5, titulo='Blood Money', numeroEpisodio=9, avaliacao=0.0, dataLancamento=2013-08-11}
+Episodio{temporada=5, titulo='Buried', numeroEpisodio=10, avaliacao=9.2, dataLancamento=2013-08-18}
+Episodio{temporada=5, titulo='Confessions', numeroEpisodio=11, avaliacao=9.6, dataLancamento=2013-08-25}
+Episodio{temporada=5, titulo='Rabid Dog', numeroEpisodio=12, avaliacao=9.1, dataLancamento=2013-09-01}
+Episodio{temporada=5, titulo='To'hajiilee', numeroEpisodio=13, avaliacao=9.8, dataLancamento=2013-09-08}
+Episodio{temporada=5, titulo='Ozymandias', numeroEpisodio=14, avaliacao=10.0, dataLancamento=2013-09-15}
+Episodio{temporada=5, titulo='Granite State', numeroEpisodio=15, avaliacao=9.7, dataLancamento=2013-09-22}
+Episodio{temporada=5, titulo='Felina', numeroEpisodio=16, avaliacao=9.9, dataLancamento=2013-09-29}
+
+1 - Buscar séries
+ 2 - Buscar Episódios
+ 3 - Listar séries buscadas
+ 4 - Buscar série por título
+ 5 - Buscar séries por ator
+ 6 - Top 5 Séries
+ 7 - Buscar séries por categoria
+ 8 - Filtrar séries por temporada e avaliação
+ 9 - Buscar episódios por trecho
+ 10 - Top 5 Episódios por série
+11 - Buscar episodios a partir de uma data
+
+ 0 - Sair
+
+11
+Escolha uma série pelo nome: 
+the big bang theory
+Dados da série: genero=COMEDIA, titulo='The Big Bang Theory', sinopse='A aspirante a atriz de cinema Penny muda-se para um apartamento em Pasadena do outro lado do corredor dos brilhantes, mas socialmente desajeitados, físicos Sheldon Cooper e Leonard Hofstadter e mostra-lhes o quão pouco sabem sobre a vida fora do laboratório.', atores='Johnny Galecki, Jim Parsons, Kaley Cuoco', avaliacao=8.1, totalTemporadas=12, poster='https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg'
+Digite o ano limite de lançamento:  
+2018
+Episodio{temporada=11, titulo='The Matrimonial Metric', numeroEpisodio=12, avaliacao=7.4, dataLancamento=2018-01-04}
+Episodio{temporada=11, titulo='The Solo Oscillation', numeroEpisodio=13, avaliacao=7.2, dataLancamento=2018-01-11}
+Episodio{temporada=11, titulo='The Separation Triangulation', numeroEpisodio=14, avaliacao=7.2, dataLancamento=2018-01-18}
+Episodio{temporada=11, titulo='The Novelization Correlation', numeroEpisodio=15, avaliacao=7.5, dataLancamento=2018-02-01}
+Episodio{temporada=11, titulo='The Neonatal Nomenclature', numeroEpisodio=16, avaliacao=7.1, dataLancamento=2018-03-01}
+Episodio{temporada=11, titulo='The Athenaeum Allocation', numeroEpisodio=17, avaliacao=6.8, dataLancamento=2018-03-08}
+Episodio{temporada=11, titulo='The Gates Excitation', numeroEpisodio=18, avaliacao=7.1, dataLancamento=2018-03-29}
+Episodio{temporada=11, titulo='The Tenant Disassociation', numeroEpisodio=19, avaliacao=7.2, dataLancamento=2018-04-05}
+Episodio{temporada=11, titulo='The Reclusive Potential', numeroEpisodio=20, avaliacao=7.2, dataLancamento=2018-04-12}
+Episodio{temporada=11, titulo='The Comet Polarization', numeroEpisodio=21, avaliacao=7.4, dataLancamento=2018-04-19}
+Episodio{temporada=11, titulo='The Monetary Insufficiency', numeroEpisodio=22, avaliacao=7.2, dataLancamento=2018-04-26}
+Episodio{temporada=11, titulo='The Sibling Realignment', numeroEpisodio=23, avaliacao=7.7, dataLancamento=2018-05-03}
+Episodio{temporada=11, titulo='The Bow Tie Asymmetry', numeroEpisodio=24, avaliacao=9.0, dataLancamento=2018-05-10}
+Episodio{temporada=12, titulo='The Conjugal Configuration', numeroEpisodio=1, avaliacao=0.0, dataLancamento=2018-09-24}
+Episodio{temporada=12, titulo='The Wedding Gift Wormhole', numeroEpisodio=2, avaliacao=7.6, dataLancamento=2018-09-27}
+Episodio{temporada=12, titulo='The Procreation Calculation', numeroEpisodio=3, avaliacao=7.2, dataLancamento=2018-10-04}
+Episodio{temporada=12, titulo='The Tam Turbulence', numeroEpisodio=4, avaliacao=7.0, dataLancamento=2018-10-11}
+Episodio{temporada=12, titulo='The Planetarium Collision', numeroEpisodio=5, avaliacao=6.8, dataLancamento=2018-10-18}
+Episodio{temporada=12, titulo='The Imitation Perturbation', numeroEpisodio=6, avaliacao=8.2, dataLancamento=2018-10-25}
+Episodio{temporada=12, titulo='The Grant Allocation Derivation', numeroEpisodio=7, avaliacao=7.3, dataLancamento=2018-11-01}
+Episodio{temporada=12, titulo='The Consummation Deviation', numeroEpisodio=8, avaliacao=7.3, dataLancamento=2018-11-08}
+Episodio{temporada=12, titulo='The Citation Negation', numeroEpisodio=9, avaliacao=7.2, dataLancamento=2018-11-15}
+Episodio{temporada=12, titulo='The VCR Illumination', numeroEpisodio=10, avaliacao=7.4, dataLancamento=2018-12-06}
+Episodio{temporada=12, titulo='The Paintball Scattering', numeroEpisodio=11, avaliacao=7.3, dataLancamento=2019-01-03}
+Episodio{temporada=12, titulo='The Propagation Proposition', numeroEpisodio=12, avaliacao=7.1, dataLancamento=2019-01-10}
+Episodio{temporada=12, titulo='The Confirmation Polarization', numeroEpisodio=13, avaliacao=7.1, dataLancamento=2019-01-17}
+Episodio{temporada=12, titulo='The Meteorite Manifestation', numeroEpisodio=14, avaliacao=7.1, dataLancamento=2019-01-31}
+Episodio{temporada=12, titulo='The Donation Oscillation', numeroEpisodio=15, avaliacao=7.4, dataLancamento=2019-02-07}
+Episodio{temporada=12, titulo='The D & D Vortex', numeroEpisodio=16, avaliacao=7.9, dataLancamento=2019-02-21}
+Episodio{temporada=12, titulo='The Conference Valuation', numeroEpisodio=17, avaliacao=7.1, dataLancamento=2019-03-07}
+Episodio{temporada=12, titulo='The Laureate Accumulation', numeroEpisodio=18, avaliacao=7.1, dataLancamento=2019-04-04}
+Episodio{temporada=12, titulo='The Inspiration Deprivation', numeroEpisodio=19, avaliacao=7.0, dataLancamento=2019-04-18}
+Episodio{temporada=12, titulo='The Decision Reverberation', numeroEpisodio=20, avaliacao=7.1, dataLancamento=2019-04-25}
+Episodio{temporada=12, titulo='The Plagiarism Schism', numeroEpisodio=21, avaliacao=7.2, dataLancamento=2019-05-02}
+Episodio{temporada=12, titulo='The Maternal Conclusion', numeroEpisodio=22, avaliacao=7.9, dataLancamento=2019-05-09}
+Episodio{temporada=12, titulo='The Change Constant', numeroEpisodio=23, avaliacao=9.0, dataLancamento=2019-05-16}
+Episodio{temporada=12, titulo='The Stockholm Syndrome', numeroEpisodio=24, avaliacao=9.5, dataLancamento=2019-05-16}

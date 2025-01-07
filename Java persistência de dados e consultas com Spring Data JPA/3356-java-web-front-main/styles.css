@@ -1,0 +1,63 @@
+/* Reset padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos globais */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #121212;
+    /* Fundo escuro para contraste */
+    color: white;
+    line-height: 1.6;
+}
+
+/* Estilo da dropdown-select */
+.dropdown-select {
+    width: 100%;
+    /* Largura ajustável em dispositivos menores */
+    max-width: 400px;
+    /* Largura máxima para garantir legibilidade */
+    margin: 0 auto;
+    /* Centraliza o dropdown */
+    padding: 8px 12px;
+    height: 45px;
+    font-size: 16px;
+    color: #62717a;
+    /* Cor suave para o texto */
+    text-shadow: 0 1px white;
+    background: #f2f2f2;
+    border: 1px solid #888888;
+    /* Borda sutil */
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Efeito de foco */
+.dropdown-select:focus {
+    outline: none;
+    background: #e0e0e0;
+    /* Mudança sutil no background ao focar */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    border-color: #409ecd;
+    /* Cor azul destacada na borda ao focar */
+}
+
+/* Efeito hover */
+.dropdown-select:hover {
+    background: #e8e8e8;
+    /* Sutil clareamento ao passar o mouse */
+    cursor: pointer;
+}
+
+/* Tornando o layout responsivo */
+@media (max-width: 600px) {
+    .dropdown-select {
+        width: 90%;
+        /* Ajusta a largura em dispositivos móveis */
+        height: 40px;
+    }
+}
