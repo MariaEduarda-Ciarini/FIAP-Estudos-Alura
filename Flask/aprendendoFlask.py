@@ -13,13 +13,13 @@ lista = [jogo1, jogo2, jogo3]
 
 
 class Usuario:
-    def init (self, nome, nickname, senha):
+    def __init__(self, nome, nickname, senha):
         self.nome = nome
         self.nickname = nickname
         self.senha = senha
 
 usuario1 = Usuario("Dudinha", "DD", "piropiro")
-usuario2 = Usuario("Duda", "Mila", "paozinho")
+usuario2 = Usuario("Duda", "DINHA", "paozinho")
 usuario3 = Usuario("Guilherme Louro", "Cake", "python_eh_vida")
 
 usuarios = { usuario1.nickname :usuario1,
